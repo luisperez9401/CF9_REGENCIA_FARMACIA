@@ -14,6 +14,14 @@
         figure
           img(src="@/assets/curso/temas/tema3/1.svg" data-aos="fade-right")
       .col-lg-8(style="place-self:center;")
+        .cajon.color-primario.p-4
+          p.mb-0(data-aos="fade-up") En la evaluación de proveedores, se deben plantear unos indicadores con el objetivo de verificar cuáles son los depósitos con los cuales se seguirá contando y con cuáles habrá que implementar acciones de mejora. 
+        p.mt-4(data-aos="fade-up") Para una mejor comprensión del tema se debe identificar qué es un indicador, cuáles son los tipos de indicadores que existen, sus características y la medición y valoración de cada uno de estos indicadores.
+    
+    Separador.mt-5
+
+    .titulo-segundo
+      h2#t_3_1 3.1 Concepto de indicador
 
 
 
@@ -36,4 +44,7 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.cajon.color-primario
+  background-color: rgba(0, 188, 212,.22)
+</style>
