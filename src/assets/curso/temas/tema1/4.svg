@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="214.119" viewBox="0 0 820 214.119">
+  <g id="Grupo_150931" data-name="Grupo 150931" transform="translate(-390 -1513)">
+    <rect id="Rectángulo_44654" data-name="Rectángulo 44654" width="820" height="214" transform="translate(390 1513)" fill="none"/>
+    <g id="Grupo_128834" data-name="Grupo 128834" transform="translate(-31.2 299)">
+      <path id="Trazado_187916" data-name="Trazado 187916" d="M417.8,1713.17v74.881H977.6V1822.8l96.6-75.371L973.4,1679.4v36.706Z" transform="translate(89.8 -465.4)" fill="#7e5ee3"/>
+      <path id="Trazado_187923" data-name="Trazado 187923" d="M9.6,0H204.2a9.6,9.6,0,0,1,9.6,9.6V52.2a9.6,9.6,0,0,1-9.6,9.6H9.6A9.6,9.6,0,0,1,0,52.2V9.6A9.6,9.6,0,0,1,9.6,0Z" transform="translate(471.2 1254.8)" fill="#00bcd4"/>
+      <rect id="Rectángulo_40909" data-name="Rectángulo 40909" width="213.8" height="61.8" rx="9.6" transform="translate(724 1255)" fill="#00bcd4"/>
+      <rect id="Rectángulo_40910" data-name="Rectángulo 40910" width="213.8" height="61.8" rx="9.6" transform="translate(976.856 1255)" fill="#00bcd4"/>
+      <g id="Grupo_128831" data-name="Grupo 128831" transform="translate(89.8 -465.4)">
+        <path id="Trazado_187917" data-name="Trazado 187917" d="M464.116,1789.056l16.3,47.544,3.176-1.24-16.3-47.544Z" fill="#00bcd4"/>
+        <path id="Trazado_187918" data-name="Trazado 187918" d="M463.707,1781.4l-1.929,11.79,10.531-4.112Z" fill="#00bcd4"/>
+      </g>
+      <g id="Grupo_128832" data-name="Grupo 128832" transform="translate(89.8 -465.4)">
+        <path id="Trazado_187919" data-name="Trazado 187919" d="M505.912,1788.324l-19.345,46.224,3.088,1.472L509,1789.8Z" fill="#00bcd4"/>
+        <path id="Trazado_187920" data-name="Trazado 187920" d="M510.616,1782.527l-9.08,7.023,10.239,4.881Z" fill="#00bcd4"/>
+      </g>
+      <g id="Grupo_128833" data-name="Grupo 128833" transform="translate(88.959 -465.4)">
+        <path id="Trazado_187921" data-name="Trazado 187921" d="M992.913,1787.314l-.941,50.1,3.413.23.941-50.1Z" fill="#00bcd4"/>
+        <path id="Trazado_187922" data-name="Trazado 187922" d="M995.149,1780.192l-5.851,9.876,11.317.763Z" fill="#00bcd4"/>
+      </g>
+      <text id="Selección_de_los_productos_farmacéuticos" data-name="Selección de los productos farmacéuticos" transform="translate(488.2 1263.519)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="32.406" y="15">Selección de los </tspan><tspan x="0.746" y="39">productos farmacéuticos</tspan></text>
+      <text id="Adquisición_de_los_productos_farmacéuticos" data-name="Adquisición de los productos farmacéuticos" transform="translate(740 1264)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="26.159" y="15">Adquisición de los </tspan><tspan x="1.843" y="39">productos farmacéuticos</tspan></text>
+      <text id="Recepción_de_los_productos_farmacéuticos" data-name="Recepción de los productos farmacéuticos" transform="translate(986.856 1264)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="36.777" y="15">Recepción de los </tspan><tspan x="7.843" y="39">productos farmacéuticos</tspan></text>
+      <rect id="Rectángulo_40911" data-name="Rectángulo 40911" width="213.8" height="61.8" rx="9.6" transform="translate(976.856 1363)" fill="#81d4fa"/>
+      <text id="Evaluación_de_los_proveedores" data-name="Evaluación de los proveedores" transform="translate(1003.856 1371)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="18.038" y="15">Evaluación de los </tspan><tspan x="35.808" y="39">proveedores</tspan></text>
+      <rect id="Rectángulo_40908" data-name="Rectángulo 40908" width="213.8" height="61.8" rx="9.6" transform="translate(471.2 1366.318)" fill="#81d4fa"/>
+      <text id="Selección_de_los_proveedores" data-name="Selección de los proveedores" transform="translate(498.2 1378.106)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="22.003" y="15">Selección de los </tspan><tspan x="35.808" y="39">proveedores</tspan></text>
+    </g>
+  </g>
+</svg>

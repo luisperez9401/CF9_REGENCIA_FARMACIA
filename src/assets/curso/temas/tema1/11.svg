@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="505" height="291" viewBox="0 0 505 291">
+  <g id="Grupo_155985" data-name="Grupo 155985" transform="translate(-495 -5386)">
+    <g id="Grupo_155984" data-name="Grupo 155984">
+      <g id="Grupo_151006" data-name="Grupo 151006">
+        <text id="Importancia" transform="translate(510 5568) rotate(-90)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Importancia</tspan></text>
+        <text id="Facilidad_de_adquisición" data-name="Facilidad de adquisición" transform="translate(685 5673)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Facilidad de adquisición</tspan></text>
+        <text id="Baja" transform="translate(541 5585) rotate(-90)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Baja</tspan></text>
+        <text id="Baja-2" data-name="Baja" transform="translate(654 5643)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Baja</tspan></text>
+        <text id="Alta" transform="translate(541 5488) rotate(-90)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Alta</tspan></text>
+        <text id="Alta-2" data-name="Alta" transform="translate(852 5643)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Alta</tspan></text>
+        <rect id="Rectángulo_44743" data-name="Rectángulo 44743" width="206" height="96" transform="translate(556 5423)" fill="#7e5ee3" opacity="0.3"/>
+        <rect id="Rectángulo_44745" data-name="Rectángulo 44745" width="206" height="96" transform="translate(556 5520)" fill="#81d4fa"/>
+        <rect id="Rectángulo_44744" data-name="Rectángulo 44744" width="206" height="96" transform="translate(763 5423)" fill="#7e5ee3" opacity="0.3"/>
+        <rect id="Rectángulo_44746" data-name="Rectángulo 44746" width="206" height="96" transform="translate(763 5520)" fill="#81d4fa"/>
+        <text id="Estratégicos" transform="translate(615 5477)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Estratégicos</tspan></text>
+        <text id="Críticos" transform="translate(632 5574)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Críticos</tspan></text>
+        <text id="Básicos" transform="translate(838 5477)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Básicos</tspan></text>
+        <text id="Poco_trascendentes" data-name="Poco trascendentes" transform="translate(795 5574)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Poco trascendentes</tspan></text>
+        <g id="Grupo_151005" data-name="Grupo 151005" transform="translate(-6)">
+          <path id="Trazado_187982" data-name="Trazado 187982" d="M-7307-6307.7v223.3h438" transform="translate(7869 11700)" fill="none" stroke="#7e5ee3" stroke-width="3"/>
+          <path id="Polígono_5" data-name="Polígono 5" d="M7,0l7,12H0Z" transform="translate(555 5386)" fill="#7e5ee3"/>
+          <path id="Polígono_6" data-name="Polígono 6" d="M7,0l7,12H0Z" transform="translate(1006 5609) rotate(90)" fill="#7e5ee3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
